@@ -196,3 +196,25 @@ body {
           left: 50%;
           transform: translate(-50%, -50%);
         }
+
+        .aboutme p {
+          width: 400px;
+          border: 2px solid black;
+          float: right;
+          margin: 100px;
+          background-color: white;
+        }
+
+        .mephoto {
+          float: left;
+          margin: 100px;
+          width: auto;
+          height: 500px;
+          border: 2px solid grey;
+        }
+
+        .background {
+          width: auto;
+          height: auto;
+          z-index: 1;
+        }

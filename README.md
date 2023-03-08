@@ -1,16 +1,8 @@
+My portfolio
 
+This project was to create a student portfolio to get the idea of creating a basic website.
 
-
-
-
-
-
-
-
-
-
-
-
+The motivation for this project was to experiment and familiarize myself with new coding techniqes to get better at building a website.
 
 
 How to link using buttons https://www.w3docs.com/snippets/html/how-to-create-an-html-button-that-acts-like-a-link.html
