@@ -199,11 +199,14 @@ body {
         }
 
         .aboutme p {
-          width: 400px;
+          width: 600px;
           border: 2px solid black;
           float: right;
           margin: 100px;
           background-color: white;
+          border-radius: 5px;
+          border-style: dashed;
+          text-align: center;
         }
 
         .mephoto {
